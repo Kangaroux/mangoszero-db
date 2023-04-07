@@ -46,7 +46,6 @@ printHelp()
 
 printBanner()
 {
-	clear
 	printf " #     #     #    #   #  ###   ###   ####  \n"
 	printf " ##   ##    # #   ##  # #     #   # #      \n"
 	printf " # # # #   #   #  # # # # ### #   #  ###   \n"
